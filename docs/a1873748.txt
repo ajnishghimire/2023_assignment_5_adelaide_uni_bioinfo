@@ -9,4 +9,8 @@
 ### Added
 
 - Initial commit
+## [0.1.1] - 2023-10-19
 
+### Fixed 
+
+- Bug was fixed by removing XXXXXXX from the file a1873748.txt #24
